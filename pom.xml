@@ -23,7 +23,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <linkchecker-persistence.version>2.2.0</linkchecker-persistence.version>
         <revision>7.6.1-SNAPSHOT</revision>
-        <vlo.version>4.12.4</vlo.version>
+        <vlo.version>4.14-SNAPSHOT</vlo.version>
         <vtd.version>2.11</vtd.version>
         <saxon.version>12.3</saxon.version>
         <mockserver.version>5.15.0</mockserver.version>
